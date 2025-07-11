@@ -1,4 +1,4 @@
-import Navbar from './components/Navbar' ; // makes me let use the <Navbar /> in comp in navbar.jsx
+import Navbar from './Components/Navbar' ; // makes me let use the <Navbar /> in comp in navbar.jsx
 
 function App() {
   return (
